@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Git Hub</string>
+    <string name="splash_logo">splash logo</string>
+
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+    <string name="search_message">Looking for User?</string>
+    <string name="search_hint">Who are you Looking for?</string>
+    <string name="user_not_found">User Not Found :(</string>
+    <string name="followers_not_found"> %s Has No Followers</string>
+    <string name="following_not_found">%s Does Not Follow Anyone</string>
+    <string name="search_logo">search_logo</string>
+    <string name="img_list">img_list</string>
+    <string name="languages" translatable="true">Languages</string>
+    <string name="favorite" translatable="true">Favorite</string>
+    <string name="settings" translatable="true">Settings</string>
+    <string name="dark_mode" translatable="true">Dark Mode</string>
+    <string name="btnfavor">btnfavor</string>
+    <string name="unfavorite" />
+</resources>
